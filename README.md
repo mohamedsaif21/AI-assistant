@@ -223,9 +223,5 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 For support, questions, or contributions:
 - **GitHub Issues**: [Create an issue](https://github.com/mohamedsaif21/AI-assistant/issues)
 - **Repository**: [AI-assistant](https://github.com/mohamedsaif21/AI-assistant)
+  
 
----
-
-**Built with ❤️ by Mohamed Saif**
-
-*"Sometimes you gotta run before you can walk." - Tony Stark*
