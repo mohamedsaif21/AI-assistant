@@ -1,4 +1,4 @@
-# 🤖 Ruhi - AI Assistant
+# 🤖 RUHI - AI Assistant
 
 A friendly, respectful AI assistant inspired by FRIDAY from Iron Man, built with LiveKit and Google's Realtime API. Ruhi serves as a personal assistant for Mohamed Saif, featuring natural conversation, time-aware greetings, and various helpful tools.
 
