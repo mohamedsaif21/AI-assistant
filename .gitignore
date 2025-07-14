@@ -129,11 +129,14 @@ dmypy.json
 .pyre/
 
 # Project specific
-*.txt
 auth_status.txt
 KMS/logs/
 .vscode/
 node_modules/
+
+# Allow requirements.txt but ignore other txt files
+*.txt
+!*requirement*.txt
 
 # IDE
 .idea/
