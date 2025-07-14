@@ -17,9 +17,9 @@ A friendly, respectful AI assistant inspired by FRIDAY from Iron Man, built with
 - **Time Management**: Automatic time-based greeting system
 
 ### 🎭 Personality
-- Inspired by FRIDAY from Iron Man
+- Inspired by FRIDAY 
 - Maintains balance between friendliness and professionalism
-- Personalized for Mohamed Saif (19 years old, 3rd year at PPG Institute of Technology)
+- Personalized for Mohamed Saif 
 - Never shows technical outputs - only natural, human-like responses
 
 ## 🚀 Getting Started
