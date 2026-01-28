@@ -206,22 +206,6 @@ est = pytz.timezone('US/Eastern')
 4. Push to the branch (`git push origin feature/amazing-feature`)
 5. Open a Pull Request
 
-## 📄 License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## 🙏 Acknowledgments
-
-- **Inspiration**: Tony Stark's FRIDAY from Iron Man
-- **LiveKit**: For real-time communication framework
-- **Google**: For Realtime API and voice synthesis
-- **OpenCV**: For camera functionality
-- **Community**: For various open-source tools and libraries
-
-## 📞 Support
-
-For support, questions, or contributions:
-- **GitHub Issues**: [Create an issue](https://github.com/mohamedsaif21/AI-assistant/issues)
-- **Repository**: [AI-assistant](https://github.com/mohamedsaif21/AI-assistant)
   
 
